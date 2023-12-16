@@ -1,0 +1,1 @@
+This project implements a chatbot interface using Gradio that generates stories based on user input. It integrates an external API for generating the content, making it a unique and interactive way to create stories.
