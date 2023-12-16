@@ -2,7 +2,7 @@ import gradio as gr
 import requests
 import os
 
-def generate_story(message):
+def generate_story(message, history):
     # Get API key from environment variable
     api_key = os.getenv('MY_API_KEY')
 
